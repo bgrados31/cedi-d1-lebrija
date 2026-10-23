@@ -44,17 +44,17 @@ X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 
 ## **Tabla 2\. Factores de protección (Y)**
 
-Y \= 18 de 26 puntos. Verificado según inspección fotográfica de las instalaciones en Lebrija.
+Y \= 22 de 26 puntos. Verificado según inspección fotográfica de las instalaciones en Lebrija.
 
 | NOMBRE DEL FACTOR | COEFICIENTE | JUSTIFICACIÓN | REFERENCIA TEÓRICA | VIGILANCIA (CV / SV) |
 | :---- | :---- | :---- | :---- | :---- |
 | Extintores portátiles (EXT) | 2 | Extintores portátiles multipropósito distribuidos en bodega y áreas operativas. | Extintor multipropósito ABC | CV \[Insertar foto de extintor operativo\] |
 | Bocas de incendio equipadas (BIE) | 4 | Confirmado: Red de tuberías contra incendios, válvulas y gabinetes BIE / montantes instalados. | Boca de incendio equipada | CV \[Insertar foto de red de montantes / BIE\] |
-| Columnas hidrantes exteriores (CHE) | 0 | Pendiente de verificar en el perímetro exterior. | Hidrante exterior | SV \[Insertar foto si existe, de lo contrario indicar 'Por verificar'\] |
+| Columnas hidrantes exteriores (CHE) | 4 | Hidrante junto al muro exterior, conectado a la red, con válvulas y salidas para manguera de bomberos. | Hidrante exterior | CV (foto del hidrante exterior) |
 | Detección automática (DTE) | 4 | Confirmado: Detectores de humo instalados en techos y áreas operativas. | Detector de humo óptico/térmico | CV \[Insertar foto de detector en techo\] |
 | Rociadores automáticos (ROC) | 8 | Confirmado: Sistema completo de tuberías rojas y cabezas de rociadores automáticos (sprinklers) bajo cubierta. | Red de rociadores automáticos | CV \[Insertar foto de sistema de rociadores\] |
 | Extinción por agentes gaseosos (IFE) | 0 | No aplica en la zona principal de abarrotes y bodega. | Sistema de agente limpio | SV (No aplica) |
-| **TOTAL Y** | **18** |  |  |  |
+| **TOTAL Y** | **22** |  |  |  |
 
 ## **Coeficiente de protección contra incendios (P)**
 
@@ -63,25 +63,25 @@ Fórmula del Método Meseri:
 **P \= (5X / 129\) \+ (5Y / 26\) \+ BCI**
 
 * **X (Factores de instalación)** \= 57  
-* **Y (Factores de protección)** \= 18  
+* **Y (Factores de protección)** \= 22  
 * **BCI (Brigada contra incendios)** \= 0 (por confirmar)
 
 Procedimiento de cálculo:
 
-P \= (5 \* 57 / 129\) \+ (5 \* 18 / 26\) \+ 0
+P \= (5 \* 57 / 129\) \+ (5 \* 22 / 26\) \+ 0
 
-P \= (285 / 129\) \+ (90 / 26\) \+ 0
+P \= (285 / 129\) \+ (110 / 26\) \+ 0
 
-P \= 2,209 \+ 3,462 \+ 0 \= **5,67**
+P \= 2,209 \+ 4,231 \+ 0 \= **6,44**
 
 | Escenario | X | Y | BCI | Procedimiento | P |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Base comprobado (EXT, BIE, DTE, ROC) | 57 | 18 | 0 | 5(57)/129 \+ 5(18)/26 \+ 0 | **5,67** |
-| Con Hidrantes exteriores y Brigada verificada | 57 | 22 | 1 | 5(57)/129 \+ 5(22)/26 \+ 1 | **7,44** |
+| Base comprobado (EXT, BIE, CHE, DTE, ROC) | 57 | 22 | 0 | 5(57)/129 \+ 5(22)/26 \+ 0 | **6,44** |
+| Con Brigada certificada | 57 | 22 | 1 | 5(57)/129 \+ 5(22)/26 \+ 1 | **7,44** |
 
 ## **Conclusión**
 
-Con las instalaciones y sistemas de protección verificados en las fotografías (rociadores automáticos, detectores y red de BIE), el CEDI obtiene una calificación de P \= 5,67.
+Con las instalaciones y sistemas de protección verificados en las fotografías (rociadores automáticos, detectores y red de BIE e hidrante exterior), el CEDI obtiene una calificación de P \= 6,44.
 
 Según la escala oficial del Método Meseri de MAPFRE:
 
@@ -90,12 +90,12 @@ Según la escala oficial del Método Meseri de MAPFRE:
 * **5 a 8:** Bueno  
 * **\> 8:** Muy bueno
 
-Por lo tanto, la puntuación obtenida de **5,67** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento en altura de más de 6 metros.
+Por lo tanto, la puntuación obtenida de **6,44** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento en altura de más de 6 metros.
 
 **Recomendaciones:**
 
 * Mantener el programa de mantenimiento e inspección periódica de la red de rociadores y válvulas de control.  
-* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 6,67.  
+* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 7,44.  
 * Evaluar la sectorización física mediante muros cortafuego en caso de futuras expansiones.
 
 # **Referencias**
