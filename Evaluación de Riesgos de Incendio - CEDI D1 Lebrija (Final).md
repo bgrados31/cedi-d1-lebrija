@@ -12,7 +12,7 @@ Se aplica el Método de Meseri en dos tablas: factores propios de las instalacio
 
 ## **Tabla 1\. Factores propios de las instalaciones (X)**
 
-X \= 53 de 129 puntos. Los coeficientes salen de la tabla del método (Fundación MAPFRE).
+X \= 55 de 129 puntos. Los coeficientes salen de la tabla del método (Fundación MAPFRE).
 
 | CONCEPTO / FACTOR | COEFICIENTE | JUSTIFICACIÓN | EVIDENCIA FOTOGRÁFICA |
 | :---- | :---- | :---- | :---- |
@@ -22,7 +22,7 @@ X \= 53 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.1.3 Resistencia al fuego | 5 | Estructura con cerchas y cubierta metálicas. Columnas de concreto/acero. | \[Insertar foto de columnas y cerchas interiores\] |
 | 1.1.4 Falsos techos | 5 | Cubierta metálica a la vista en la bodega, sin falso techo. | \[Insertar foto de cubierta interior\] |
 | **1.2 FACTORES DE SITUACIÓN** |  |  |  |
-| 1.2.1 Distancia de los bomberos | 8 | La estación de bomberos de Lebrija atiende emergencias 24h. Se estima entre 5 y 10 km por carretera. | \[Insertar captura de ruta en mapa\] |
+| 1.2.1 Distancia de los bomberos | 10 | Ruta en Google Maps desde la Estación de Bomberos de Lebrija: 3,4 km y 5 min. Menos de 5 km. | Captura de ruta en Google Maps |
 | 1.2.2 Accesibilidad | 3 | Acceso por la vía San Pablo; terreno montañoso y elevado sobre su entorno: accesibilidad media. | \[Insertar foto de acceso y portería\] |
 | **1.3 PROCESOS** |  |  |  |
 | 1.3.1 Peligro de activación | 5 | Sin llama abierta ni procesos térmicos directos. Fuentes de ignición: montacargas eléctricos y tableros. | \[Insertar foto de estación de carga montacargas\] |
@@ -40,7 +40,7 @@ X \= 53 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.6.2 Humo | 0 | Productos alimentarios altamente susceptibles a la contaminación por humo: alta. | \[Insertar foto de zona de alimentos secos\] |
 | 1.6.3 Corrosión | 5 | Media: productos de aseo, conservas y enlatados. | \[Insertar foto de sección enlatados y aseo\] |
 | 1.6.4 Agua | 5 | Cajas de cartón y empaques se dañan con agua de extinción: destructibilidad media. | \[Insertar foto de estibas con empaques\] |
-| **TOTAL X** | **53** |  |  |
+| **TOTAL X** | **55** |  |  |
 
 ## **Tabla 2\. Factores de protección (Y)**
 
@@ -62,26 +62,26 @@ Fórmula del Método Meseri:
 
 **P \= (5X / 129\) \+ (5Y / 26\) \+ BCI**
 
-* **X (Factores de instalación)** \= 53  
+* **X (Factores de instalación)** \= 55  
 * **Y (Factores de protección)** \= 18  
 * **BCI (Brigada contra incendios)** \= 0 (por confirmar)
 
 Procedimiento de cálculo:
 
-P \= (5 \* 53 / 129\) \+ (5 \* 18 / 26\) \+ 0
+P \= (5 \* 55 / 129\) \+ (5 \* 18 / 26\) \+ 0
 
-P \= (265 / 129\) \+ (90 / 26\) \+ 0
+P \= (275 / 129\) \+ (90 / 26\) \+ 0
 
-P \= 2,054 \+ 3,461 \+ 0 \= **5,52**
+P \= 2,132 \+ 3,462 \+ 0 \= **5,59**
 
 | Escenario | X | Y | BCI | Procedimiento | P |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Base comprobado (EXT, BIE, DTE, ROC) | 53 | 18 | 0 | 5(53)/129 \+ 5(18)/26 \+ 0 | **5,52** |
-| Con Hidrantes exteriores y Brigada verificada | 53 | 22 | 1 | 5(53)/129 \+ 5(22)/26 \+ 1 | **7,29** |
+| Base comprobado (EXT, BIE, DTE, ROC) | 55 | 18 | 0 | 5(55)/129 \+ 5(18)/26 \+ 0 | **5,59** |
+| Con Hidrantes exteriores y Brigada verificada | 55 | 22 | 1 | 5(55)/129 \+ 5(22)/26 \+ 1 | **7,36** |
 
 ## **Conclusión**
 
-Con las instalaciones y sistemas de protección verificados en las fotografías (rociadores automáticos, detectores y red de BIE), el CEDI obtiene una calificación de P \= 5,52.
+Con las instalaciones y sistemas de protección verificados en las fotografías (rociadores automáticos, detectores y red de BIE), el CEDI obtiene una calificación de P \= 5,59.
 
 Según la escala oficial del Método Meseri de MAPFRE:
 
@@ -90,12 +90,12 @@ Según la escala oficial del Método Meseri de MAPFRE:
 * **5 a 8:** Bueno  
 * **\> 8:** Muy bueno
 
-Por lo tanto, la puntuación obtenida de **5,52** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento en altura de más de 6 metros.
+Por lo tanto, la puntuación obtenida de **5,59** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento en altura de más de 6 metros.
 
 **Recomendaciones:**
 
 * Mantener el programa de mantenimiento e inspección periódica de la red de rociadores y válvulas de control.  
-* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 6,52.  
+* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 6,59.  
 * Evaluar la sectorización física mediante muros cortafuego en caso de futuras expansiones.
 
 # **Referencias**
