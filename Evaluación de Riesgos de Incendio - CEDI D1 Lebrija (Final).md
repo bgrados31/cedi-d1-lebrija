@@ -29,7 +29,7 @@ X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.3.2 Carga térmica | 2 | Gran volumen de alimentos y bebidas empacados en cartón y plástico da una carga alta (2.000 a 5.000 MJ/m²). | \[Insertar foto de mercancía almacenada\] |
 | 1.3.3 Inflamabilidad | 3 | Predominan sólidos combustibles (cartón, plástico, madera): categoría media. | \[Insertar foto de estibas y embalajes\] |
 | 1.3.4 Orden y limpieza | 5 | Nivel medio-alto. Pasillos despejados para tránsito logístico. | \[Insertar foto de pasillos de circulación\] |
-| 1.3.5 Almacenamiento en altura | 0 | Estanterías tipo rack de más de 6 m de altura. | \[Insertar foto de racks de almacenamiento\] |
+| 1.3.5 Almacenamiento en altura | 0 | Estanterías de unos 10 m de alto (dato del personal), por encima del límite de 6 m. | \[Insertar foto de racks de almacenamiento\] |
 | **1.4 CONCENTRACIÓN DE VALORES** |  |  |  |
 | 1.4.1 Concentración de valores | 3 | Mercancía de consumo masivo y bajo valor unitario, por debajo de 600 €/m². | \[Insertar foto panorámica del almacén\] |
 | **1.5 PROPAGABILIDAD** |  |  |  |
@@ -90,7 +90,7 @@ Según la escala oficial del Método Meseri de MAPFRE:
 * **5 a 8:** Bueno  
 * **\> 8:** Muy bueno
 
-Por lo tanto, la puntuación obtenida de **6,44** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento en altura de más de 6 metros.
+Por lo tanto, la puntuación obtenida de **6,44** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento de unos 10 m de alto.
 
 **Recomendaciones:**
 
