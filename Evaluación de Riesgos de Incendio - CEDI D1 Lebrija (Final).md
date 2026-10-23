@@ -12,7 +12,7 @@ Se aplica el Método de Meseri en dos tablas: factores propios de las instalacio
 
 ## **Tabla 1\. Factores propios de las instalaciones (X)**
 
-X \= 54 de 129 puntos. Los coeficientes salen de la tabla del método (Fundación MAPFRE).
+X \= 53 de 129 puntos. Los coeficientes salen de la tabla del método (Fundación MAPFRE).
 
 | CONCEPTO / FACTOR | COEFICIENTE | JUSTIFICACIÓN | EVIDENCIA FOTOGRÁFICA |
 | :---- | :---- | :---- | :---- |
@@ -95,7 +95,7 @@ Por lo tanto, la puntuación obtenida de **5,52** clasifica el riesgo global del
 **Recomendaciones:**
 
 * Mantener el programa de mantenimiento e inspección periódica de la red de rociadores y válvulas de control.  
-* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 6,55.  
+* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 6,52.  
 * Evaluar la sectorización física mediante muros cortafuego en caso de futuras expansiones.
 
 # **Referencias**
