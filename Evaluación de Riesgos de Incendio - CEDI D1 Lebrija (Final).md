@@ -23,7 +23,7 @@ X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.1.4 Falsos techos | 5 | La bodega no tiene cielo raso. Solo las oficinas y el comedor del mezanine lo tienen, una parte pequeña del edificio. Se toma sin falsos techos. | Fotos de la cubierta de la bodega y del cielo raso del comedor (ampliadas en el anexo) |
 | **1.2 FACTORES DE SITUACIÓN** |  |  |  |
 | 1.2.1 Distancia de los bomberos | 10 | Ruta en Google Maps desde la Estación de Bomberos de Lebrija: 3,4 km y 5 min. Menos de 5 km. | Captura de ruta en Google Maps |
-| 1.2.2 Accesibilidad | 5 | Acceso pavimentado con portería vehicular de 8 m de ancho (más de 4 m), vía perimetral alrededor de la nave y 6 entradas a la bodega (3 de 2,50 × 2,50 m y 3 de 2,50 × 0,80 m). Accesibilidad buena. | Foto de acceso y portería |
+| 1.2.2 Accesibilidad | 5 | Acceso pavimentado con portería vehicular de 8 m de ancho (más de 4 m), vía perimetral alrededor de la nave y 6 entradas al edificio del CEDI (3 de 2,50 × 2,50 m y 3 de 2,50 × 0,80 m). Accesibilidad buena. | Foto de acceso y portería |
 | **1.3 PROCESOS** |  |  |  |
 | 1.3.1 Peligro de activación | 5 | Sin llama abierta. Fuentes de ignición: carga de baterías de montacargas en la bodega y equipos eléctricos de la cocina del comedor, con cableado expuesto. Peligro medio. | Fotos de la carga de montacargas y de la cocina (ampliadas en el anexo) |
 | 1.3.2 Carga térmica | 0 | Gran volumen de alimentos y bebidas empacados en cartón y plástico, apilados hasta 10 m: carga alta, más de 200 Mcal/m². | Foto de mercancía almacenada |
