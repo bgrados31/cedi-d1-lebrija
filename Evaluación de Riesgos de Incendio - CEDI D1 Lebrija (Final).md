@@ -26,7 +26,7 @@ X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.2.2 Accesibilidad | 5 | Acceso pavimentado de más de 4 m, apto para tractomulas, y vía perimetral alrededor de la nave: accesibilidad buena (confirmado por un trabajador del CEDI). | Foto de acceso y portería |
 | **1.3 PROCESOS** |  |  |  |
 | 1.3.1 Peligro de activación | 5 | Sin llama abierta ni procesos térmicos directos. Fuentes de ignición: montacargas eléctricos y tableros. | \[Insertar foto de estación de carga montacargas\] |
-| 1.3.2 Carga térmica | 2 | Alimentos empacados, cartón, plástico y estibas de madera dan una carga alta (2.000 a 5.000 MJ/m²). | \[Insertar foto de mercancía almacenada\] |
+| 1.3.2 Carga térmica | 2 | Gran volumen de alimentos y bebidas empacados en cartón y plástico da una carga alta (2.000 a 5.000 MJ/m²). | \[Insertar foto de mercancía almacenada\] |
 | 1.3.3 Inflamabilidad | 3 | Predominan sólidos combustibles (cartón, plástico, madera): categoría media. | \[Insertar foto de estibas y embalajes\] |
 | 1.3.4 Orden y limpieza | 5 | Nivel medio-alto. Pasillos despejados para tránsito logístico. | \[Insertar foto de pasillos de circulación\] |
 | 1.3.5 Almacenamiento en altura | 0 | Estanterías tipo rack de más de 6 m de altura. | \[Insertar foto de racks de almacenamiento\] |
