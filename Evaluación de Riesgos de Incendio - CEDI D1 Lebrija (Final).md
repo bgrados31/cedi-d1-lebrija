@@ -12,35 +12,35 @@ Se aplica el Método de Meseri en dos tablas: factores propios de las instalacio
 
 ## **Tabla 1\. Factores propios de las instalaciones (X)**
 
-X \= 54 de 129 puntos. Los coeficientes salen de la tabla del método (Fundación MAPFRE).
+X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundación MAPFRE).
 
 | CONCEPTO / FACTOR | COEFICIENTE | JUSTIFICACIÓN | EVIDENCIA FOTOGRÁFICA |
 | :---- | :---- | :---- | :---- |
 | **1.1 CONSTRUCCIÓN** |  |  |  |
-| 1.1.1 Altura del edificio | 1 | Confirmado: Altura interior libre de 18 m (exterior 21 m). Según la tabla del método, al estar entre 15 y 30 m, el coeficiente es 1\. | \[Insertar foto de fachada exterior\] |
+| 1.1.1 Altura del edificio | 1 | Un piso con mezanine (coef. 3) y 18 m hasta las cerchas (entre 15 y 20 m, coef. 1). Se toma el menor: 1. | Foto de fachada |
 | 1.1.2 Mayor sector de incendio | 0 | Medido en Google Maps: cubierta de 17.432 m², sin sectorización comprobada: más de 4.500 m². | \[Insertar imagen satelital perimetral\] |
-| 1.1.3 Resistencia al fuego | 5 | Estructura con cerchas y cubierta metálicas. Columnas de concreto/acero. | \[Insertar foto de columnas y cerchas interiores\] |
+| 1.1.3 Resistencia al fuego | 7 | Estructura mixta: columnas de concreto (resistente, 10) y cerchas metálicas (no combustible, 5). Se toma un valor intermedio: 7. | Foto de columnas y cubierta |
 | 1.1.4 Falsos techos | 5 | La bodega no tiene cielo raso. Solo las oficinas y el comedor del mezanine lo tienen, una parte pequeña del edificio. Se toma sin falsos techos. | Fotos de la cubierta de la bodega y del cielo raso del comedor (ampliadas en el anexo) |
 | **1.2 FACTORES DE SITUACIÓN** |  |  |  |
 | 1.2.1 Distancia de los bomberos | 10 | Ruta en Google Maps desde la Estación de Bomberos de Lebrija: 3,4 km y 5 min. Menos de 5 km. | Captura de ruta en Google Maps |
 | 1.2.2 Accesibilidad | 5 | Acceso pavimentado de más de 4 m, apto para tractomulas, y vía perimetral alrededor de la nave: accesibilidad buena (confirmado por un trabajador del CEDI). | Foto de acceso y portería |
 | **1.3 PROCESOS** |  |  |  |
 | 1.3.1 Peligro de activación | 5 | Sin llama abierta. Fuentes de ignición: carga de baterías de montacargas en la bodega y equipos eléctricos de la cocina del comedor, con cableado expuesto. Peligro medio. | Fotos de la carga de montacargas y de la cocina (ampliadas en el anexo) |
-| 1.3.2 Carga térmica | 2 | Gran volumen de alimentos y bebidas empacados en cartón y plástico da una carga alta (2.000 a 5.000 MJ/m²). | \[Insertar foto de mercancía almacenada\] |
-| 1.3.3 Inflamabilidad | 3 | Predominan sólidos combustibles (cartón, plástico, madera): categoría media. | \[Insertar foto de estibas y embalajes\] |
+| 1.3.2 Carga térmica | 0 | Gran volumen de alimentos y bebidas empacados en cartón y plástico, apilados hasta 10 m: carga alta, más de 200 Mcal/m². | Foto de mercancía almacenada |
+| 1.3.3 Combustibilidad | 3 | Cartón, madera de estibas y plástico de empaque: materiales de combustibilidad media (M.2 y M.3). | Foto de estibas y embalajes |
 | 1.3.4 Orden y limpieza | 5 | Pasillos de bodega y corredores de oficinas despejados y señalizados; acumulación de estibas en zonas de servicio. Nivel medio. | Fotos del pasillo de la bodega y del corredor de oficinas (ampliadas en el anexo) |
 | 1.3.5 Almacenamiento en altura | 0 | Estanterías de unos 10 m de alto (dato del personal), por encima del límite de 6 m. | \[Insertar foto de racks de almacenamiento\] |
 | **1.4 CONCENTRACIÓN DE VALORES** |  |  |  |
 | 1.4.1 Concentración de valores | 0 | Inventario y equipos ≈ 500.000 millones COP (dato del personal) ÷ 17.432 m² ≈ 28,7 millones COP/m² (≈ 1.060.000 pts/m²). Supera 200.000 pts/m². | Foto del almacén desde el mezanine |
 | **1.5 PROPAGABILIDAD** |  |  |  |
 | 1.5.1 Propagabilidad horizontal | 3 | Bloques de estantería separados por pasillos: media. | \[Insertar foto de pasillos entre racks\] |
-| 1.5.2 Propagabilidad vertical | 0 | Los racks apilan mercancía en cajas de cartón y plástico, nivel sobre nivel, hasta cerca del techo; el fuego puede subir de un nivel a otro: alta. | \[Insertar foto de niveles verticales de racks\] |
+| 1.5.2 Propagabilidad vertical | 3 | Mide el paso del fuego entre pisos. La nave es de un piso, pero el mezanine de oficinas da a la bodega por ventanales de vidrio. Media. | Foto del ventanal del mezanine |
 | **1.6 DESTRUCTIBILIDAD** |  |  |  |
 | 1.6.1 Calor | 0 | Almacenamiento en cava/frío se afecta en grado alto. | \[Insertar foto de zona cavas / frío\] |
 | 1.6.2 Humo | 0 | Productos alimentarios altamente susceptibles a la contaminación por humo: alta. | \[Insertar foto de zona de alimentos secos\] |
-| 1.6.3 Corrosión | 5 | Media: productos de aseo, conservas y enlatados. | \[Insertar foto de sección enlatados y aseo\] |
+| 1.6.3 Corrosión | 5 | Empaques plásticos (incluido PVC) y productos de aseo pueden liberar gases corrosivos, sin dañar de forma importante el edificio. Media. | Foto de productos envasados |
 | 1.6.4 Agua | 5 | Cajas de cartón y empaques se dañan con agua de extinción: destructibilidad media. | \[Insertar foto de estibas con empaques\] |
-| **TOTAL X** | **54** |  |  |
+| **TOTAL X** | **57** |  |  |
 
 ## **Tabla 2\. Factores de protección (Y)**
 
@@ -62,26 +62,26 @@ Fórmula del Método Meseri:
 
 **P \= (5X / 129\) \+ (5Y / 26\) \+ BCI**
 
-* **X (Factores de instalación)** \= 54  
+* **X (Factores de instalación)** \= 57  
 * **Y (Factores de protección)** \= 22  
 * **BCI (Brigada contra incendios)** \= 0 (el CEDI no tiene brigada)
 
 Procedimiento de cálculo:
 
-P \= (5 \* 54 / 129\) \+ (5 \* 22 / 26\) \+ 0
+P \= (5 \* 57 / 129\) \+ (5 \* 22 / 26\) \+ 0
 
-P \= (270 / 129\) \+ (110 / 26\) \+ 0
+P \= (285 / 129\) \+ (110 / 26\) \+ 0
 
-P \= 2,093 \+ 4,231 \+ 0 \= **6,32**
+P \= 2,209 \+ 4,231 \+ 0 \= **6,44**
 
 | Escenario | X | Y | BCI | Procedimiento | P |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Base comprobado (EXT, BIE, CHE, DTE, ROC) | 54 | 22 | 0 | 5(54)/129 \+ 5(22)/26 \+ 0 | **6,32** |
-| Si se conforma una brigada | 54 | 22 | 1 | 5(54)/129 \+ 5(22)/26 \+ 1 | **7,32** |
+| Base comprobado (EXT, BIE, CHE, DTE, ROC) | 57 | 22 | 0 | 5(57)/129 \+ 5(22)/26 \+ 0 | **6,44** |
+| Si se conforma una brigada | 57 | 22 | 1 | 5(57)/129 \+ 5(22)/26 \+ 1 | **7,44** |
 
 ## **Conclusión**
 
-Con las instalaciones y sistemas de protección verificados en las fotografías (rociadores automáticos, detectores y red de BIE e hidrante exterior), el CEDI obtiene una calificación de P \= 6,32.
+Con las instalaciones y sistemas de protección verificados en las fotografías (rociadores automáticos, detectores y red de BIE e hidrante exterior), el CEDI obtiene una calificación de P \= 6,44.
 
 Según la escala oficial del Método Meseri de MAPFRE:
 
@@ -90,12 +90,12 @@ Según la escala oficial del Método Meseri de MAPFRE:
 * **5 a 8:** Bueno  
 * **\> 8:** Muy bueno
 
-Por lo tanto, la puntuación obtenida de **6,32** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento de unos 10 m de alto.
+Por lo tanto, la puntuación obtenida de **6,44** clasifica el riesgo global del CEDI como **Bueno**. La presencia de los rociadores automáticos (8 pts) y la detección (4 pts) compensa notablemente la vulnerabilidad del almacenamiento de unos 10 m de alto.
 
 **Recomendaciones:**
 
 * Mantener el programa de mantenimiento e inspección periódica de la red de rociadores y válvulas de control.  
-* Conformar y capacitar una Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 7,32.  
+* Conformar y capacitar una Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 7,44.  
 * Evaluar la sectorización física mediante muros cortafuego en caso de futuras expansiones.
 
 # **Referencias**
