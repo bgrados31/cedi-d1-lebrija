@@ -64,7 +64,7 @@ Fórmula del Método Meseri:
 
 * **X (Factores de instalación)** \= 54  
 * **Y (Factores de protección)** \= 22  
-* **BCI (Brigada contra incendios)** \= 0 (por confirmar)
+* **BCI (Brigada contra incendios)** \= 0 (el CEDI no tiene brigada)
 
 Procedimiento de cálculo:
 
@@ -77,7 +77,7 @@ P \= 2,093 \+ 4,231 \+ 0 \= **6,32**
 | Escenario | X | Y | BCI | Procedimiento | P |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Base comprobado (EXT, BIE, CHE, DTE, ROC) | 54 | 22 | 0 | 5(54)/129 \+ 5(22)/26 \+ 0 | **6,32** |
-| Con Brigada certificada | 54 | 22 | 1 | 5(54)/129 \+ 5(22)/26 \+ 1 | **7,32** |
+| Si se conforma una brigada | 54 | 22 | 1 | 5(54)/129 \+ 5(22)/26 \+ 1 | **7,32** |
 
 ## **Conclusión**
 
@@ -95,7 +95,7 @@ Por lo tanto, la puntuación obtenida de **6,32** clasifica el riesgo global del
 **Recomendaciones:**
 
 * Mantener el programa de mantenimiento e inspección periódica de la red de rociadores y válvulas de control.  
-* Implementar o certificar formalmente la Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 7,32.  
+* Conformar y capacitar una Brigada Contra Incendios para sumar el punto adicional (BCI \= 1\) elevando el coeficiente a 7,32.  
 * Evaluar la sectorización física mediante muros cortafuego en caso de futuras expansiones.
 
 # **Referencias**
