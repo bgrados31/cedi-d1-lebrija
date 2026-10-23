@@ -34,7 +34,7 @@ X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.4.1 Concentración de valores | 3 | Mercancía de consumo masivo y bajo valor unitario, por debajo de 600 €/m². | \[Insertar foto panorámica del almacén\] |
 | **1.5 PROPAGABILIDAD** |  |  |  |
 | 1.5.1 Propagabilidad horizontal | 3 | Bloques de estantería separados por pasillos: media. | \[Insertar foto de pasillos entre racks\] |
-| 1.5.2 Propagabilidad vertical | 0 | Los racks multinivel facilitan la continuidad vertical del fuego: alta. | \[Insertar foto de niveles verticales de racks\] |
+| 1.5.2 Propagabilidad vertical | 0 | Los racks apilan mercancía en cajas de cartón y plástico, nivel sobre nivel, hasta cerca del techo; el fuego puede subir de un nivel a otro: alta. | \[Insertar foto de niveles verticales de racks\] |
 | **1.6 DESTRUCTIBILIDAD** |  |  |  |
 | 1.6.1 Calor | 0 | Almacenamiento en cava/frío se afecta en grado alto. | \[Insertar foto de zona cavas / frío\] |
 | 1.6.2 Humo | 0 | Productos alimentarios altamente susceptibles a la contaminación por humo: alta. | \[Insertar foto de zona de alimentos secos\] |
