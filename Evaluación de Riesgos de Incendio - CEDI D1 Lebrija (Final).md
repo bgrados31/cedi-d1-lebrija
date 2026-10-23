@@ -20,15 +20,15 @@ X \= 57 de 129 puntos. Los coeficientes salen de la tabla del método (Fundació
 | 1.1.1 Altura del edificio | 1 | Confirmado: Altura interior libre de 18 m (exterior 21 m). Según la tabla del método, al estar entre 15 y 30 m, el coeficiente es 1\. | \[Insertar foto de fachada exterior\] |
 | 1.1.2 Mayor sector de incendio | 0 | Medido en Google Maps: cubierta de 17.432 m², sin sectorización comprobada: más de 4.500 m². | \[Insertar imagen satelital perimetral\] |
 | 1.1.3 Resistencia al fuego | 5 | Estructura con cerchas y cubierta metálicas. Columnas de concreto/acero. | \[Insertar foto de columnas y cerchas interiores\] |
-| 1.1.4 Falsos techos | 5 | La bodega no tiene cielo raso. Solo las oficinas y el comedor del mezanine lo tienen, una parte pequeña del edificio. Se toma sin falsos techos. | Foto de la cubierta de la bodega; cielo raso del comedor en Anexo A1 |
+| 1.1.4 Falsos techos | 5 | La bodega no tiene cielo raso. Solo las oficinas y el comedor del mezanine lo tienen, una parte pequeña del edificio. Se toma sin falsos techos. | Fotos de la cubierta de la bodega y del cielo raso del comedor (ampliadas en el anexo) |
 | **1.2 FACTORES DE SITUACIÓN** |  |  |  |
 | 1.2.1 Distancia de los bomberos | 10 | Ruta en Google Maps desde la Estación de Bomberos de Lebrija: 3,4 km y 5 min. Menos de 5 km. | Captura de ruta en Google Maps |
 | 1.2.2 Accesibilidad | 5 | Acceso pavimentado de más de 4 m, apto para tractomulas, y vía perimetral alrededor de la nave: accesibilidad buena (confirmado por un trabajador del CEDI). | Foto de acceso y portería |
 | **1.3 PROCESOS** |  |  |  |
-| 1.3.1 Peligro de activación | 5 | Sin llama abierta. Fuentes de ignición: carga de baterías de montacargas en la bodega y equipos eléctricos de la cocina del comedor, con cableado expuesto. Peligro medio. | Foto de la carga de montacargas; cocina en Anexo A2 |
+| 1.3.1 Peligro de activación | 5 | Sin llama abierta. Fuentes de ignición: carga de baterías de montacargas en la bodega y equipos eléctricos de la cocina del comedor, con cableado expuesto. Peligro medio. | Fotos de la carga de montacargas y de la cocina (ampliadas en el anexo) |
 | 1.3.2 Carga térmica | 2 | Gran volumen de alimentos y bebidas empacados en cartón y plástico da una carga alta (2.000 a 5.000 MJ/m²). | \[Insertar foto de mercancía almacenada\] |
 | 1.3.3 Inflamabilidad | 3 | Predominan sólidos combustibles (cartón, plástico, madera): categoría media. | \[Insertar foto de estibas y embalajes\] |
-| 1.3.4 Orden y limpieza | 5 | Pasillos de bodega y corredores de oficinas despejados y señalizados; acumulación de estibas en zonas de servicio. Nivel medio. | Foto del pasillo de la bodega; corredor de oficinas en Anexo A3 |
+| 1.3.4 Orden y limpieza | 5 | Pasillos de bodega y corredores de oficinas despejados y señalizados; acumulación de estibas en zonas de servicio. Nivel medio. | Fotos del pasillo de la bodega y del corredor de oficinas (ampliadas en el anexo) |
 | 1.3.5 Almacenamiento en altura | 0 | Estanterías de unos 10 m de alto (dato del personal), por encima del límite de 6 m. | \[Insertar foto de racks de almacenamiento\] |
 | **1.4 CONCENTRACIÓN DE VALORES** |  |  |  |
 | 1.4.1 Concentración de valores | 3 | Mercancía de consumo masivo y bajo valor unitario, por debajo de 600 €/m². | \[Insertar foto panorámica del almacén\] |
